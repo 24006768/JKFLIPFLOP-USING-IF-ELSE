@@ -53,15 +53,15 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **PROGRAM**
 
-![4](https://github.com/user-attachments/assets/113d13f3-c329-451f-8148-cec6e5ae38fa)
+![17362290696322226041717544326238](https://github.com/user-attachments/assets/859f4b97-a1ae-4ca4-b77c-e75ec61f8ead)
 
 **RTL LOGIC FOR FLIPFLOPS**
 
-![5](https://github.com/user-attachments/assets/37077133-a8ca-456f-b793-d606557180ba)
+![image](https://github.com/user-attachments/assets/4845638d-fc5d-4de0-98c7-12a4832c8098)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![image](https://github.com/user-attachments/assets/29d7336e-cbc7-4742-98f0-6a219a3e87c7)
+![image](https://github.com/user-attachments/assets/3548b0bc-8f2c-4527-bd28-3cda3d2ed03c)
 
 
 **RESULTS**
